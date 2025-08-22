@@ -34,7 +34,7 @@ This guide bridges that gap by showing how `.hex` works as both a program **and*
 
 ---
 
-🎯 **Key Features of Create AI Save System**
+🎯 **Key Features of Create AI**
 
 * **Save as `.hex`**
 
